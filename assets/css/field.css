@@ -25,8 +25,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    min-height: 40px;
-    padding: 8px 12px;
+    min-height: 29px;
+    padding: 0px 7px;
     background: #fff;
     border: 1px solid #8c8f94;
     border-radius: 4px;
@@ -130,6 +130,7 @@
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
+    z-index: 10001;
 }
 
 /* -----------------------------------------------------------------------------
@@ -216,8 +217,8 @@
 
 .mudrava-lucide-icon svg,
 .mudrava-lucide-icon-svg {
-    width: 22px;
-    height: 22px;
+    width: 18px;
+    height: 18px;
     color: #1d2327;
     stroke: currentColor;
     fill: none;
