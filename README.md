@@ -4,7 +4,8 @@ A professional ACF (Advanced Custom Fields) custom field type for selecting [Luc
 
 ![Lucide Icon Picker Interface](assets/img/screenshot-1.png)
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/mudrava-acf-lucide-field)](https://wordpress.org/plugins/mudrava-acf-lucide-field/)
+[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/mudrava-acf-lucide-field)](https://wordpress.org/plugins/mudrava-acf-lucide-field/)
 ![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-green.svg)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 ![ACF Pro](https://img.shields.io/badge/ACF%20Pro-6.0%2B-orange.svg)
@@ -34,7 +35,7 @@ Mudrava Icon Field for ACF with Lucide adds a new field type to ACF Pro that all
 
 ### Manual Installation
 
-1. Download the plugin zip file from [GitHub Releases](https://github.com/Mudrava/mudrava-acf-lucide-field/releases)
+1. Download the plugin from [WordPress.org](https://wordpress.org/plugins/mudrava-acf-lucide-field/) or from [GitHub Releases](https://github.com/Mudrava/mudrava-acf-lucide-field/releases)
 2. Go to **Plugins > Add New > Upload Plugin**
 3. Upload the zip file and click **Install Now**
 4. Activate the plugin
@@ -203,7 +204,7 @@ Yes, the plugin includes RTL (right-to-left) support.
 
 ### How do updates work?
 
-The plugin checks for updates directly from GitHub releases. When a new version is available, you'll see the update notification in WordPress admin just like any other plugin.
+The plugin is distributed via the [WordPress.org Plugin Directory](https://wordpress.org/plugins/mudrava-acf-lucide-field/). Updates are delivered automatically through the standard WordPress update system.
 
 ## Changelog
 
@@ -221,6 +222,7 @@ Contributions are welcome! Please read our contributing guidelines before submit
 
 ## Links
 
+- **WordPress.org**: [wordpress.org/plugins/mudrava-acf-lucide-field](https://wordpress.org/plugins/mudrava-acf-lucide-field/)
 - **Plugin Page**: [mudrava.com/en/projects/mudrava-acf-lucide-field](https://mudrava.com/en/projects/mudrava-acf-lucide-field)
 - **GitHub**: [github.com/Mudrava/mudrava-acf-lucide-field](https://github.com/Mudrava/mudrava-acf-lucide-field)
 - **Lucide Icons**: [lucide.dev](https://lucide.dev/)

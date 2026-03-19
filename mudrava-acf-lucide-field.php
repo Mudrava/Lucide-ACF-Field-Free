@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Mudrava Icon Field for ACF with Lucide
- * Plugin URI:  https://github.com/Mudrava/mudrava-acf-lucide-field
+ * Plugin URI:  https://wordpress.org/plugins/mudrava-acf-lucide-field/
  * Description: A custom ACF field type for selecting Lucide icons with a visual picker interface.
  * Version:     1.0.0
  * Author:      Mudrava
@@ -95,7 +95,7 @@ add_action('acf/include_field_types', 'mudrava_lucide_field_register');
 /**
  * Modifies plugin row links.
  *
- * Adds "Does" link and ensures external links open in new tab.
+ * Adds "Docs" link and ensures external links open in new tab.
  *
  * @since 1.0.0
  *

@@ -13,6 +13,6 @@ Currently, only the latest release of the plugin receives security updates.
 
 We take the security of this plugin seriously. If you discover a vulnerability, please do NOT open a public issue.
 
-Instead, please email us directly with the details of the vulnerability, explaining the steps to reproduce it. We will reply as soon as possible, give an estimate on when the fix will be available, and keep you informed of the progress.
+Instead, please email us at **security@mudrava.com** with the details of the vulnerability, explaining the steps to reproduce it. We will reply as soon as possible, give an estimate on when the fix will be available, and keep you informed of the progress.
 
 Thank you for helping keep the WordPress community secure.
