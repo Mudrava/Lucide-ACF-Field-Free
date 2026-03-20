@@ -1,0 +1,87 @@
+# Brazilian Portuguese translation for Mudrava Icon Field for ACF with Lucide
+# Copyright (C) 2026 Mudrava
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mudrava Icon Field for ACF with Lucide 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/Mudrava/mudrava-acf-lucide-field/issues\n"
+"POT-Creation-Date: 2026-03-20 00:00+0000\n"
+"PO-Revision-Date: 2026-03-20 00:00+0000\n"
+"Last-Translator: Mudrava <info@mudrava.com>\n"
+"Language-Team: Portuguese (Brazil) <pt_BR@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: mudrava-acf-lucide-field.php:116
+msgid "Docs"
+msgstr "Documentação"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:47
+msgid "Lucide Icon"
+msgstr "Ícone Lucide"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:91
+#: includes/class-mudrava-acf-field-lucide-icon.php:153
+msgid "Search icons..."
+msgstr "Pesquisar ícones..."
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:92
+#: includes/class-mudrava-acf-field-lucide-icon.php:183
+msgid "No icons found"
+msgstr "Nenhum ícone encontrado"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:93
+#: includes/class-mudrava-acf-field-lucide-icon.php:169
+msgid "Clear selection"
+msgstr "Limpar seleção"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:164
+msgid "No icon selected"
+msgstr "Nenhum ícone selecionado"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:207
+msgid "Default Value"
+msgstr "Valor padrão"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:208
+msgid "Enter the icon name to be selected by default (e.g., \"rocket\")."
+msgstr "Insira o nome do ícone a ser selecionado por padrão (ex.: \"rocket\")."
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:217
+msgid "Return Format"
+msgstr "Formato de retorno"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:218
+msgid "Specify the format returned by get_field()."
+msgstr "Especifique o formato retornado por get_field()."
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:222
+msgid "Icon Name (e.g., \"rocket\")"
+msgstr "Nome do ícone (ex.: \"rocket\")"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:223
+msgid "SVG Markup"
+msgstr "Marcação SVG"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:232
+msgid "Placeholder"
+msgstr "Texto provisório"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:233
+msgid "Placeholder text for the search input."
+msgstr "Texto provisório para o campo de pesquisa."
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:253
+msgid "Allow Null"
+msgstr "Permitir valor nulo"
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:254
+msgid "Allow the field to have no icon selected."
+msgstr "Permitir que o campo não tenha nenhum ícone selecionado."
+
+#: includes/class-mudrava-acf-field-lucide-icon.php:323
+msgid "Please select an icon."
+msgstr "Por favor, selecione um ícone."
